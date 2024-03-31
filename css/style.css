@@ -57,11 +57,11 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 dfn {
-  font-style: italic;
+  font-style: oblique;
 }
 
 h1 {
@@ -70,8 +70,8 @@ h1 {
 }
 
 mark {
-  background: #ff0;
-  color: #000;
+  background: rgb(217, 94, 32);
+  color: #000000;
 }
 
 small {
